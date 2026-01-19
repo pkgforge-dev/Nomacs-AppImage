@@ -1,7 +1,7 @@
 # Nomacs-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Nomacs-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Nomacs-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/Nomacs-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Nomacs-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Nomacs-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Nomacs-AppImage/releases)
+[![CI Build Status](https://github.com//pkgforge-dev/Nomacs-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Nomacs-AppImage/releases)
 
 * [Latest Stable Release](https://github.com/pkgforge-dev/Nomacs-AppImage/releases)
 
